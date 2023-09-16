@@ -2,5 +2,6 @@
 
 Check out the [docs](https://rr.brott.dev/docs/v1-0/tuning/).
 
-TODO: update the readme for AIM
-HERE IS A CONFLdsdssd
+HERE IS LINE 1
+
+HERE IS LINE 2
